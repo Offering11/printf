@@ -44,7 +44,7 @@ Upon successful return, the function (_printf) returns the number of characters 
 
 .SH Format
 
-The format string is a character string, beginning and ending in its initial shift state, if any.
+The format string is a character string, beginning and ending in its initial shift state, if any
 
 .PP
 
